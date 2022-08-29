@@ -25,6 +25,8 @@ namespace ProblematicProblem
             else
             {
                 cont = false;
+                Console.WriteLine($"Okay, Have a good day!");
+                return;
             }
 
             Console.WriteLine();
